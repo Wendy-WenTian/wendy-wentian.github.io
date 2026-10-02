@@ -6,21 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!--Welcome! I'm a Ph.D. candidate in the $$\color{CornflowerBlue}{\small \textsf{Department of Economics}}$$ at the $$\color{CornflowerBlue}{\small \textsf{Pennsylvania}}$$  $$\color{CornflowerBlue}{\small \textsf{State}}$$ $$\color{CornflowerBlue}{\small \textsf{University}}$$. 
+Welcome! I am an Economics Ph.D. and Quantitative Analyst at First Citizens, with a background in econometrics, quantitative modeling, and applied economic research.
 
-My research fields are $$\color{CornflowerBlue}{\small \textsf{Industrial Organization}}$$ and $$\color{CornflowerBlue}{\small \textsf{Applied Microeconomics}}$$. My current research focus on two policies for electric vehicles adoption: subsidies and the green license plate policy on consumer purchasing behaviors and firms' pricing strategies in the automobile industry. 
+My work combines economic reasoning with quantitative methods to address complex financial problems, develop and evaluate analytical models, and translate data into actionable insights. At First Citizens, I work in quantitative modeling and risk analytics, with a focus on model development, implementation, and ongoing monitoring.
 
-Before my Ph.D., I obtained an $$\color{CornflowerBlue}{\small \textsf{M.Phil. in Economics}}$$ from the $$\color{CornflowerBlue}{\small \textsf{Chinese University of Hong Kong}}$$ and a $$\color{CornflowerBlue}{\small \textsf{B.A. in Economics}}$$ from $$\color{CornflowerBlue}{\small \textsf{Fudan University}}$$.
+My professional and research interests include econometrics, quantitative modeling, machine learning, and data-driven decision-making. I am particularly interested in applying rigorous statistical and economic methods to uncover patterns in data, test hypotheses, and develop models that improve analytical and business decisions.
 
-I will be on the job market for the 2024-25 academic year. My CV can be found [here](https://wendy-wentian.github.io/files/Wen_Tian_PSU_CV.pdf). My job market paper can be found [here](https://wendy-wentian.github.io/files/Wen_Tian_JMP_PSU.pdf).-->
+Before joining First Citizens, I earned my Ph.D. in Economics from Penn State University, where my doctoral training focused on econometrics, statistical analysis, economic modeling, and empirical research.
 
-Welcome! I'm an Economics Ph.D. candidate at [Penn State University](https://econ.la.psu.edu/). 
-
-My research fields are Industrial Organization and Applied Microeconomics. My current research focus on the electric vehicle market. I evaluate the impacts of two primary policies for electric vehicles adoption: subsidies and the green license plate policy on consumer purchasing behaviors and firms' pricing strategies using evidence from Beijing, China. 
-
-Before my Ph.D., I obtained an M.Phil. in Economics from the [Chinese University of Hong Kong](https://www.econ.cuhk.edu.hk/econ/en-gb/) and a B.A. in Economics from [Fudan University](https://econ.fudan.edu.cn/).
-
-I will be on the job market for the 2024-25 academic year. My CV can be found [here](https://wendy-wentian.github.io/files/Wen_Tian_PSU_CV.pdf). 
+I welcome opportunities for discussions and collaborations in economics, quantitative research, and data-driven applications. My CV can be found [here](https://wendy-wentian.github.io/files/Wen_Tian_PSU_CV.pdf). 
 
 ### Working Papers
 - *Demand-Side Policies for Electric Vehicles Adoption: Evidence from Beijing* 🚗 [(Job Market Paper)](https://wendy-wentian.github.io/files/Wen_Tian_JMP_PSU.pdf)
